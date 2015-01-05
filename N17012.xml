@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021926_0000_0FB6142AF65489F0"/>
-            <pb facs="tcp:021926_0001_0FB6142C30EA04B8"/>
+            <pb facs="unknown:021926_0000_0FB6142AF65489F0"/>
+            <pb facs="unknown:021926_0001_0FB6142C30EA04B8"/>
             <p>THE POLITICIAN OUT-WITTED, A COMEDY, IN FIVE-ACTS. Written in the YEAR 1788. BY AN AMERICAN.</p>
             <q>
                <p>"Then let not Censure, with malignant joy,</p>
@@ -128,7 +128,7 @@
             <p>NEW-YORK: PRINTED FOR THE AUTHOR, BY W. ROSE, IN BROAD-STREET, AND SOLD BY THE DIFFERENT BOOKSELLERS. M.DCC.LXXXIX.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:021926_0002_0FB6142DD30EDC48"/>
+            <pb facs="unknown:021926_0002_0FB6142DD30EDC48"/>
             <head>Dramatis Personae.</head>
             <list>
                <head>MEN.</head>
@@ -158,7 +158,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:021926_0003_0FB614353579AAB0"/>
+            <pb facs="unknown:021926_0003_0FB614353579AAB0"/>
             <head>THE POLITICIAN OUT-WITTED.</head>
             <div n="1" type="act">
                <head>Act I.</head>
@@ -217,7 +217,7 @@
                      <p>Come, Thomas, let's have it,—I'm all ears to hear you.</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:021926_0004_0FB6143913156FE0"/>
+                     <pb n="4" facs="unknown:021926_0004_0FB6143913156FE0"/>
                      <speaker>Thomas.</speaker>
                      <p>'Tis a pity you have not a little more eyesight and brains along with your ears. <stage>Aside.</stage> 
                         <stage>Reads.</stage> "Extract of a letter from a gentleman in Boston, dated February the third, 1788.—Our convention will pass the federal government by a considerable majority: The more it is examined, the more con<g ref="char:EOLhyphen"/>verts are made for its adoption. This you may rely on."</p>
@@ -262,7 +262,7 @@
                      </p>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:021926_0005_0FB6143A7096B0B0"/>
+                     <pb n="5" facs="unknown:021926_0005_0FB6143A7096B0B0"/>
                      <speaker>Loveyet.</speaker>
                      <p>To be sure I have. Let me see,—I shou'd like a woman an inch or two less than six feet high now, and thick in proportion: By my body, such a woman wou'd look noble by the side of me when she was entient.</p>
                   </sp>
@@ -321,7 +321,7 @@
                      <p>Pardonnez moy, monsieur. I hope it not be any intrusion; par dieu, I will not frize dat Jantemon a la mode Paris no more, becase he vas fronte me.</p>
                   </sp>
                   <sp>
-                     <pb n="06" facs="tcp:021926_0006_0FB6143C03ADE8E8"/>
+                     <pb n="06" facs="unknown:021926_0006_0FB6143C03ADE8E8"/>
                      <speaker>Trueman.</speaker>
                      <p>What's the matter, Mr. Toupee?</p>
                   </sp>
@@ -404,7 +404,7 @@
                      <p>Yes, you Schoolmastare; you tell me vat be you booby.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:021926_0007_0FB6143F13A42AF0"/>
+                     <pb n="7" facs="unknown:021926_0007_0FB6143F13A42AF0"/>
                      <speaker>Trueman.</speaker>
                      <p>Pertinacious, audacious reptile!</p>
                      <stage>Canes Toupee.</stage>
@@ -453,7 +453,7 @@
                      <stage>Half aside.</stage>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:021926_0008_0FB61440741AC690"/>
+                     <pb n="8" facs="unknown:021926_0008_0FB61440741AC690"/>
                      <speaker>Humphry.</speaker>
                      <p>Yes, it is insufferable cool, that's sartin; but it's time to expect it.</p>
                   </sp>
@@ -523,7 +523,7 @@
                      <p>Far from it, Frankton; be assured that the joy I now feel at meeting with <hi>you,</hi> is by no means the least I expect to experience.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:021926_0009_0FB614436E323BA0"/>
+                     <pb n="9" facs="unknown:021926_0009_0FB614436E323BA0"/>
                      <speaker>Frankton.</speaker>
                      <p>Our satisfaction is then mutual—your friends are all happy and well, and I know your arrival will not a little contribute to <hi>their</hi> felicity, as well as mine—but who have you here, Loveyet? Landed not fifteen minutes ago, and in close confab with one of our Boors already?</p>
                   </sp>
@@ -607,7 +607,7 @@
                      <speaker>Loveyet.</speaker>
                      <p>
                         <stage>to Frankton</stage> I have a letter here, which announces to my father, my intention to leave the West-Indies the begin<g ref="char:EOLhyphen"/>ning of March, but I miss'd of the expected conveyance—I have half a mind to send it yet. I would not have him apprized
-<pb n="10" facs="tcp:021926_0010_0FB6144C1524A4B8"/>
+<pb n="10" facs="unknown:021926_0010_0FB6144C1524A4B8"/>
 of my arrival; for I wish to try if he would know me;—and yet I long to embrace my aged and venerable parent. Will you do me the favour to take this letter to my father, Mr. Cubb? He lives at number two hundred and fifty, in Queen-street, in a three story red brick house.—I'll reward you for it.</p>
                   </sp>
                   <sp>
@@ -651,7 +651,7 @@ of my arrival; for I wish to try if he would know me;—and yet I long to embrac
                   <sp>
                      <speaker>Maria.</speaker>
                      <p>Very indifferently, I assure you, my dear: You know, Harriet, I do most cordially hate dancing at any time; but what
-<pb n="11" facs="tcp:021926_0011_0FB6144ED63B4CA8"/>
+<pb n="11" facs="unknown:021926_0011_0FB6144ED63B4CA8"/>
 must one do with one's self these irksome, heavy, dreary Win<g ref="char:EOLhyphen"/>ters? If it were not for cards, visits to and from, and—</p>
                   </sp>
                   <sp>
@@ -689,7 +689,7 @@ must one do with one's self these irksome, heavy, dreary Win<g ref="char:EOLhyph
                   <sp>
                      <speaker>Harriet.</speaker>
                      <p>Hold, Maria—what a catalogue of uncomfortable comforts have you ran over.—Pleasure and Comfort are words which imply the same thing with me; but in this enlighten'd age, when words are so curiously resin'd and desin'd, modern critics and fashionable word-mongers have, in the abundance of their wisdom, made a very nice distinction between them—for my part, I always endeavour to reconcile modish pleasure with real comfort, and custom with reason, as much as is any way
-<pb n="12" facs="tcp:021926_0012_0FB614502FE3C400"/>
+<pb n="12" facs="unknown:021926_0012_0FB614502FE3C400"/>
 consistent with the obligation one is under to conform a little to the perverse notions of mankind.</p>
                   </sp>
                   <sp>
@@ -756,7 +756,7 @@ consistent with the obligation one is under to conform a little to the perverse 
                   <sp>
                      <speaker>Harriet.</speaker>
                      <p>'Tis rather unusual to see a lady of your taste and spirit, either weep at a pathetic incident in tragedy, or laugh at a comic scene; and as for the gentlemen, your lads of spirit, such as are falsely called <hi>ladies' men,</hi> they are not so masculine as to understand, and therefore not so effeminate as to weep;
-<pb n="13" facs="tcp:021926_0013_0FB61451B7D7F5A0"/>
+<pb n="13" facs="unknown:021926_0013_0FB61451B7D7F5A0"/>
 tho' one would conclude, from their effeminacy in appearance and behaviour, that they would cry if you were to look at them.</p>
                   </sp>
                   <sp>
@@ -810,7 +810,7 @@ tho' one would conclude, from their effeminacy in appearance and behaviour, that
                   <sp>
                      <speaker>Maria.</speaker>
                      <p>So, I was extremely civil to my two worshipping votaries, grinn'd when they did, and talk'd as much nonsense as either of them. During this scene of mock-gallantry, one of my love-sick swains elevated his eyes in a most languishing manner; and, clasping his sweet, unlucky hands together rather eagerly, my little dog <hi>Muff</hi> happen'd to be in the way, by which means my pet was squeez'd rather more than it lik'd, and my Adonis's finger bit by it so feelingly, that it would have
-<pb n="14" facs="tcp:021926_0014_0FB61453441BC9D0"/>
+<pb n="14" facs="unknown:021926_0014_0FB61453441BC9D0"/>
 delighted you to see how he twisted his soft features about, with the excruciating anguish. Ha, ha, ha.</p>
                   </sp>
                   <sp>
@@ -848,7 +848,7 @@ delighted you to see how he twisted his soft features about, with the excruciati
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="15" facs="tcp:021926_0015_0FB6145D06B92D18"/>
+               <pb n="15" facs="unknown:021926_0015_0FB6145D06B92D18"/>
                <head>Act II.</head>
                <div n="1" type="scene">
                   <head>Scene I. FRANKTON'S Lodgings.</head>
@@ -914,7 +914,7 @@ delighted you to see how he twisted his soft features about, with the excruciati
                   <sp>
                      <speaker>Frankton.</speaker>
                      <p>Well, if you had let me proceed, I should have told you that if one more like them could be found in town, they would make a more beautiful triple than the three renowned
-<pb n="16" facs="tcp:021926_0016_0FB6145E79C8FFD0"/>
+<pb n="16" facs="unknown:021926_0016_0FB6145E79C8FFD0"/>
 goddesses who were candidates for beauty and a golden apple long ago; but no matter now.—The account you have given of the lovely Harriet, has rekindled the flame she so early inspir'd me with, and I already feel myself all the lover; how then shall I feel, when I once more behold the dear maid, like the mother of mankind—"with grace in all her steps, heaven in her eye; in every gesture, dignity and love!"</p>
                   </sp>
                   <sp>
@@ -978,7 +978,7 @@ goddesses who were candidates for beauty and a golden apple long ago; but no mat
                      <p>There he rides his hobby-horse again.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:021926_0017_0FB6145FF25E1E88"/>
+                     <pb n="17" facs="unknown:021926_0017_0FB6145FF25E1E88"/>
                      <speaker>Loveyet.</speaker>
                      <p>Ay, and a generous horse he is—he carries me very pleasantly, I assure you.</p>
                   </sp>
@@ -1049,7 +1049,7 @@ goddesses who were candidates for beauty and a golden apple long ago; but no mat
                   <sp>
                      <speaker>Frankton.</speaker>
                      <p>I'll explain.—He imagines she is fond of him, because she does not actually discard him; upon which presump<g ref="char:EOLhyphen"/>tion
-<pb n="18" facs="tcp:021926_0018_0FB61461B5856A80"/>
+<pb n="18" facs="unknown:021926_0018_0FB61461B5856A80"/>
 he titters, capers, vows, bows, talks scraps of French, and sings an amorous lay—with such an irresistably languishing air, that she cannot do less than compliment him—on the fineness of his voice, for instance; the smartness of his repartees, the bril<g ref="char:EOLhyphen"/>liancy of his wit, the gaiety and vivacity of his temper, his genteel carriage, his handsome person, his winning address, his—</p>
                   </sp>
                   <sp>
@@ -1120,7 +1120,7 @@ he titters, capers, vows, bows, talks scraps of French, and sings an amorous lay
                      </p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:021926_0019_0FB6146BA4B95248"/>
+                     <pb n="19" facs="unknown:021926_0019_0FB6146BA4B95248"/>
                      <speaker>Loveyet.</speaker>
                      <p>I desire none of your musty Latin, sir, for I don't understand it, not I.</p>
                   </sp>
@@ -1192,7 +1192,7 @@ he titters, capers, vows, bows, talks scraps of French, and sings an amorous lay
                      <p>I wonder what Constitution magnifies.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:021926_0020_0FB6146CAF30FA78"/>
+                     <pb n="20" facs="unknown:021926_0020_0FB6146CAF30FA78"/>
                      <speaker>Trueman.</speaker>
                      <p>The old Constitution!—ha, ha, ha, ha. Super<g ref="char:EOLhyphen"/>latively ludicrous and facetious, upon my erudition; and highly productive of risibility—ha, ha, ha. The old Constitution! A very shadow of a government—a perfect <hi>caput mortuum;</hi>—why, one of my school-boys would make a better; 'tis grown as superannuated, embecilitated, valetudinarianated, invalidated, enervated and dislocated as an old man of sixty odd.</p>
                   </sp>
@@ -1236,7 +1236,7 @@ he titters, capers, vows, bows, talks scraps of French, and sings an amorous lay
                   <sp>
                      <speaker>Trueman.</speaker>
                      <p>Harkee, Mr. Loveyet, I will propound a problem to you. We will suppose there are two parallel lines drawn on this floor, which notwithstanding they may be very contiguous
-<pb n="21" facs="tcp:021926_0021_0FB6146E56635A90"/>
+<pb n="21" facs="unknown:021926_0021_0FB6146E56635A90"/>
 to each other, and advance <hi>ad infinitum,</hi> can never approximate so near as to effect a junction, in which fundamental axiom all mathematicians profess a perfect congruity and acquiescence:—now, to elucidate the hypothesis a little, we will suppose here is one line; and we will further suppose here is another line. <stage>draws his cane over Loveyet's feet, which makes him jumb.</stage> Now we will suppose that line is you, and this line is compos'd, form'd, constituted, made up of discernment, political knowledge, public spirit, and true republicanism,—but, as I predicated antecedently, <hi>that</hi> line is you— <stage>striking his cane on Loveyet's feet.</stage> you must not forget <hi>that.</hi>
                      </p>
                   </sp>
@@ -1293,7 +1293,7 @@ to each other, and advance <hi>ad infinitum,</hi> can never approximate so near 
                      <p>Why I lay now I can say that as good as you, for all you're such a fine scholard.—I won't be plain, thou ignorant mouse.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:021926_0022_0FB61473F16AD160"/>
+                     <pb n="22" facs="unknown:021926_0022_0FB61473F16AD160"/>
                      <speaker>Trueman.</speaker>
                      <p>
                         <hi>"Monstrum horrendum, cui lumen ademptum!"</hi>
@@ -1366,7 +1366,7 @@ to each other, and advance <hi>ad infinitum,</hi> can never approximate so near 
                      <p>What brought <hi>you</hi> here, pray?</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:021926_0023_0FB6147701334BF8"/>
+                     <pb n="23" facs="unknown:021926_0023_0FB6147701334BF8"/>
                      <speaker>Humphry.</speaker>
                      <p>Why, my legs, to be sure.—Here, old gentleman, if you'll promise you won't get in such a passion as you did just now, I've got some news to tell you.</p>
                   </sp>
@@ -1457,7 +1457,7 @@ to each other, and advance <hi>ad infinitum,</hi> can never approximate so near 
                      <p>You lie! I am his father—if he was here, he wou'dn't deny it.</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:021926_0024_0FB61478051DE7F0"/>
+                     <pb n="24" facs="unknown:021926_0024_0FB61478051DE7F0"/>
                      <speaker>Humphry.</speaker>
                      <p>Why he is here, I tell you—here in New-York. I suppose how he's made a small mistake about the day of the month, and says he's just arrived from the East-Indies, for he's cursed apt for to make blunders;—that about the corn and the pigs; ha, ha, ha.</p>
                   </sp>
@@ -1517,7 +1517,7 @@ to each other, and advance <hi>ad infinitum,</hi> can never approximate so near 
                      <p>"Honor'd Sir,</p>
                      <p>"I have just time enough to acquaint you by the Oceanus, captain Seaborn, who is now preparing to sail, that I have at length adjusted my business so as to be able to leave this place for New-York, the beginning of March; in which case you may look for me before the first of April next; when I promise myself the happiness of seeing you once more, and enjoying the society of the best of parents: 'till then I shall continue to be, with truly filial attachment, and anxious expectation of the happy event, your obliged and dutiful son,—CHARLES LOVEYET."</p>
                      <p>I wonder he don't say any thing of the coffee and madeira I wrote to him about;—egad, I must mind the main chance; a penny sav'd, is a penny got; and charity begins at home. By strictly attending to these excellent maxims, I am worth about five and twenty per cent. more than any other merchant in the city; and as for that stupid proverb, money is the root of all evil, 'tis well enough for those to say so, who have none; for
-<pb n="25" facs="tcp:021926_0025_0FB6147B03A136E8"/>
+<pb n="25" facs="unknown:021926_0025_0FB6147B03A136E8"/>
 my part, I know that much of the good things of this world is better than not enough—that a man can live longer upon a hundred thousand pounds than one thousand pounds—that if, the more we have the more we want, the more we have the more we make—and that it is better to make hay while the sun shines <hi>against</hi> a rainy day, when I shall be upon my last legs, than to work and toil like an ass <hi>in</hi> the rain; so it plainly appears that money is the root of all good;—that's my logic.—I long to see the young rogue tho'—I dare say he looks very like his father;—but, had I thought old Trueman wou'd have us'd me so ill, I wou'd not have wrote for him yet; for he shall not have his old sweetheart:—if he offers to disobey me in this respect, by my body, I'll disinherit the ungracious dog immediately.</p>
                      <stage>Exit.</stage>
                   </sp>
@@ -1559,7 +1559,7 @@ my part, I know that much of the good things of this world is better than not en
                      <p>What, do you dare to do such a thing before me, you country brute?</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:021926_0026_0FB6147C70D62E98"/>
+                     <pb n="26" facs="unknown:021926_0026_0FB6147C70D62E98"/>
                      <speaker>Humphry.</speaker>
                      <p>Ay, no sooner said than done; that's my way.</p>
                   </sp>
@@ -1617,7 +1617,7 @@ my part, I know that much of the good things of this world is better than not en
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="27" facs="tcp:021926_0027_0FB6147EB8ADB460"/>
+               <pb n="27" facs="unknown:021926_0027_0FB6147EB8ADB460"/>
                <head>Act III.</head>
                <div n="1" type="scene">
                   <head>Scene I. A BARBER'S SHOP.</head>
@@ -1685,7 +1685,7 @@ my part, I know that much of the good things of this world is better than not en
                      <p>Oh, with soap-suds, you mean:—I ax pardon, mounsieur; I thought how you was a going for to lather me without soap-suds or razor, as the old proverb is.</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:021926_0028_0FB61486662DA6B0"/>
+                     <pb n="28" facs="unknown:021926_0028_0FB61486662DA6B0"/>
                      <speaker>Toupee.</speaker>
                      <p>Dat is no possible, monsieur.</p>
                   </sp>
@@ -1777,7 +1777,7 @@ my part, I know that much of the good things of this world is better than not en
                      <p>Yes, I saw Mr. Loveyet.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:021926_0029_0FB61488B535FE78"/>
+                     <pb n="29" facs="unknown:021926_0029_0FB61488B535FE78"/>
                      <speaker>Loveyet.</speaker>
                      <p>The devil is in the fellow, I believe. Did you give him my letter?</p>
                   </sp>
@@ -1859,7 +1859,7 @@ my part, I know that much of the good things of this world is better than not en
                      <p>With all my heart—soul, I mean;—ay, here's soul enough— <stage>Gingling the money.</stage>—to buy the matter o' twenty mugs;—come, let's go at once.</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:021926_0030_0FB6148C4F1B1890"/>
+                     <pb n="30" facs="unknown:021926_0030_0FB6148C4F1B1890"/>
                      <speaker>Loveyet.</speaker>
                      <p>I?—excuse me, sir; I have particular business else<g ref="char:EOLhyphen"/>where.—Sir, your most humble servant.</p>
                   </sp>
@@ -1928,7 +1928,7 @@ my part, I know that much of the good things of this world is better than not en
                         <hi>Improper subject,</hi>—ha, ha, ha. So my very discreet, prudish little Harriet, never lets man enter into her head; tho' it is pretty notorious somebody has enter'd into her <hi>heart</hi> long ago.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:021926_0031_0FB6148F449435F0"/>
+                     <pb n="31" facs="unknown:021926_0031_0FB6148F449435F0"/>
                      <speaker>Harriet.</speaker>
                      <p>Your discernment must be very subtle, if you know all that is in my heart.</p>
                   </sp>
@@ -1967,7 +1967,7 @@ my part, I know that much of the good things of this world is better than not en
                   <sp>
                      <speaker>Maria.</speaker>
                      <p>That is very strange:—I should imagine, if you priz'd my company so much, you would wish me to withold it from others; because, the more I bless them with my presence, the less will come to your share, you know, my dear;—nor is it easy to conceive how you could be so found of my sweet person, without being jealous at the partiality of others;—but, after all, good people, they say, are scarce; and my humble admirers shall find the saying verified in me; because they are not fully sensible of my superior value; but, since your prove the contrary, by extolling my conversation and friendship so much, I likewise shall observe a contrary conduct, and indulge you with a <hi>tête à téte</hi> frequently, my dear.—But I have fifty places to call at
-<pb n="32" facs="tcp:021926_0032_0FB61490AFEE4F38"/>
+<pb n="32" facs="unknown:021926_0032_0FB61490AFEE4F38"/>
 yet:—I am to wait on Miss Nancy Startup, Miss Biddy Dress<g ref="char:EOLhyphen"/>wise, Miss Candy, Miss Titterwell, Mrs. Furbelow, Mrs. Never<g ref="char:EOLhyphen"/>home, Mrs.—, <hi>et cetera, et cetera;</hi> which visits I mean to pay with all the formality and fashionable shortness in my power: from thence I shall proceed to Mademoiselle Mincit, the milliner; from thence to two or three score of shops in William-Street, to buy a prodigious number of important—</p>
                   </sp>
                   <sp>
@@ -2015,7 +2015,7 @@ yet:—I am to wait on Miss Nancy Startup, Miss Biddy Dress<g ref="char:EOLhyphe
                   <sp>
                      <speaker>Humphry.</speaker>
                      <p>Mr. Lovit—Mr. Lovit.— <stage>Takes him aside.</stage> As I was a going along, d'ye see, I see you pop in here, and so I follow'd you, to tell you, how old Mr. Lovit said he was
-<pb n="33" facs="tcp:021926_0033_0FB614923B343830"/>
+<pb n="33" facs="unknown:021926_0033_0FB614923B343830"/>
 intend for to go for to see the old fellow's daughter, to tell her something about the letter. Don't Mrs. Harriet live here?</p>
                   </sp>
                   <sp>
@@ -2094,7 +2094,7 @@ intend for to go for to see the old fellow's daughter, to tell her something abo
                   <sp>
                      <speaker>Worthnought.</speaker>
                      <p>Pardon me, sir;—to a person of penetra<g ref="char:EOLhyphen"/>tion, the Yorker is still conspicuous under the disguise of the
-<pb n="34" facs="tcp:021926_0034_0FB61493AFDD7AA0"/>
+<pb n="34" facs="unknown:021926_0034_0FB61493AFDD7AA0"/>
 foreigner; and I am proud to have the hanor of being your countryman, sir.</p>
                   </sp>
                   <sp>
@@ -2165,7 +2165,7 @@ foreigner; and I am proud to have the hanor of being your countryman, sir.</p>
                      <p>You are the most unmannerly fellow I ever convers'd with, 'pan hanor.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:021926_0035_0FB614978D46CDC0"/>
+                     <pb n="35" facs="unknown:021926_0035_0FB614978D46CDC0"/>
                      <speaker>Loveyet.</speaker>
                      <p>And you the most contemptible puppy; or that fellow would be unmannerly enough to chastise you for your insolence.</p>
                   </sp>
@@ -2230,7 +2230,7 @@ foreigner; and I am proud to have the hanor of being your countryman, sir.</p>
                   <sp>
                      <speaker>Loveyet.</speaker>
                      <p>Be assured, Miss Harriet, if you condescend to grant your valuable company to such superficial gentry, they will ever prove themselves as unworthy of it as he has; but your goodness does not let you suspect the use which such characters
-<pb n="36" facs="tcp:021926_0036_0FB614990350DC98"/>
+<pb n="36" facs="unknown:021926_0036_0FB614990350DC98"/>
 make of the intimacy they are honor'd with, or you would spurn their unmeaning flattery, and ridiculous fopperies, with indig<g ref="char:EOLhyphen"/>nation.</p>
                   </sp>
                   <sp>
@@ -2283,7 +2283,7 @@ make of the intimacy they are honor'd with, or you would spurn their unmeaning f
                      <p>Yes, when I can apply them to your disappointment and disgrace.—"I am monstrously chagrin'd, sir, 'foregad, that I have it not in my power to introduce you to the divine mistress of my heart." Ha, ha, ha.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:021926_0037_0FB6149C96E4A820"/>
+                     <pb n="37" facs="unknown:021926_0037_0FB6149C96E4A820"/>
                      <speaker>Worthnought.</speaker>
                      <p>'Tis very well,—I will have revenge;—if the laws of politeness, (which I would rather die than infringe) did not forbid swearing before a <hi>lady,</hi> 
                         <stage>in a contemptuous tone</stage> curse me, but I would d—n you for a—</p>
@@ -2354,7 +2354,7 @@ make of the intimacy they are honor'd with, or you would spurn their unmeaning f
                      <p>I dare say your presence is no restraint, sir.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:021926_0038_0FB6149E38418510"/>
+                     <pb n="38" facs="unknown:021926_0038_0FB6149E38418510"/>
                      <speaker>Old <hi>Loveyet.</hi>
                      </speaker>
                      <p>I don't know that, madam: pray, who is the gentleman?</p>
@@ -2415,7 +2415,7 @@ make of the intimacy they are honor'd with, or you would spurn their unmeaning f
                   <sp>
                      <speaker>Harriet.</speaker>
                      <p>I think our troubles increase fast: how unlucky, that this dispute should happen at the very crisis of your arrival;
-<pb n="39" facs="tcp:021926_0039_0FB614A58A014780"/>
+<pb n="39" facs="unknown:021926_0039_0FB614A58A014780"/>
 —an event which we fondly expected would be attended with the most pleasing circumstances.</p>
                   </sp>
                   <sp>
@@ -2475,7 +2475,7 @@ make of the intimacy they are honor'd with, or you would spurn their unmeaning f
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="40" facs="tcp:021926_0040_0FB614A6835D9280"/>
+               <pb n="40" facs="unknown:021926_0040_0FB614A6835D9280"/>
                <head>Act IV.</head>
                <div n="1" type="scene">
                   <head>Scene I. TRUEMAN'S House.</head>
@@ -2517,7 +2517,7 @@ make of the intimacy they are honor'd with, or you would spurn their unmeaning f
                   <sp>
                      <speaker>Trueman.</speaker>
                      <p>Be it known to thee, thou monstrous mass of ignorance, if such an uninformed clod, dull and heavy as that element to which it must trace its origin, can comprehend these very obvious and palpable truths, expressed in the most plain, simple, easy, unscholastic diction.—I repeat again, that you may apprehend me with the greater perspicuity and facility,—be it known to thee, that those immaculate sages would have died rather than have used such an expression; by the dignity of my profession, they would:—'tis true that the ancients had such things as single combats among the Olympic games, and they were always performed by the populace; but such a fight, alias a tilt, a tournament, a wrestle, could not, according to the rule
-<pb n="41" facs="tcp:021926_0041_0FB614A827039C20"/>
+<pb n="41" facs="unknown:021926_0041_0FB614A827039C20"/>
 of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOLhyphen"/>perly denominated a <hi>bona fide</hi> sight; for, as I before observed, it was <hi>ipso facto,</hi> a game, an Olympic game.—Olympic, from Olympus.</p>
                   </sp>
                   <sp>
@@ -2551,7 +2551,7 @@ of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOL
                      <p>Like enough, but I don't understand a single word you've been a talking about.</p>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:021926_0042_0FB614AB7AAB0330"/>
+                     <pb n="42" facs="unknown:021926_0042_0FB614AB7AAB0330"/>
                      <speaker>Trueman.</speaker>
                      <p>No! 'Tis not my fault then:—If plainness of lan<g ref="char:EOLhyphen"/>guage, clearness of description, and a grammatical arrangement of words will not suffice. I can do no more.</p>
                   </sp>
@@ -2633,7 +2633,7 @@ of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOL
                         </stage> Oh, what an unlucky dog I am! My evil genius is certainly let loose to day.</p>
                   </sp>
                   <sp>
-                     <pb n="43" facs="tcp:021926_0043_0FB614B04939CD18"/>
+                     <pb n="43" facs="unknown:021926_0043_0FB614B04939CD18"/>
                      <speaker>Trueman.</speaker>
                      <p>Let us coolly enquire into this enigmatical affair, Mr. Loveyet. <stage>Breaks open the note, and reads.</stage>—What is all this?—Booby—blockhead—satisfaction—challenge—courage—honor—gentleman—honor'd per Monsieur Cubb.</p>
                   </sp>
@@ -2694,7 +2694,7 @@ of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOL
                      <p>Age, sir!—Wisdom!—Yes, wisdom, sir.—Age again, egh? Ugh, ugh.</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:021926_0044_0FB614B3309FF3C8"/>
+                     <pb n="44" facs="unknown:021926_0044_0FB614B3309FF3C8"/>
                      <speaker>Trueman.</speaker>
                      <p>Was there ever such preposterous behaviour!—You are getting as crazy as your favorite Constitution.</p>
                   </sp>
@@ -2751,7 +2751,7 @@ of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOL
                      </p>
                   </sp>
                   <stage>
-                     <pb n="45" facs="tcp:021926_0045_0FB614B4B24E24B0"/>
+                     <pb n="45" facs="unknown:021926_0045_0FB614B4B24E24B0"/>
                      <hi>Enter</hi> HARRIET <hi>alarmed.</hi>
                   </stage>
                   <sp>
@@ -2826,7 +2826,7 @@ of right, and the eternal fitness and aptitude of things, be pro<g ref="char:EOL
                   <sp>
                      <speaker>Trueman.</speaker>
                      <p>A true to your insipid, hard-labour'd wit: the honor you are pleased to call in question, is not an empty name which can be purchased with gold; it is too inestimable to be
-<pb n="46" facs="tcp:021926_0046_0FB614B62EF685A0"/>
+<pb n="46" facs="unknown:021926_0046_0FB614B62EF685A0"/>
 counterpoised by that imaginary good; otherwise the titles of Honorable and Excellent would be always significant of his Honor's or his Excellency's intrinsic worth:—a thing "devoutly to be wish'd," but unfortunately too seldom exemplified; for, as the dramatic muse elegantly says of money,—"Who steals my purse, steals trash."</p>
                   </sp>
                   <sp>
@@ -2864,7 +2864,7 @@ counterpoised by that imaginary good; otherwise the titles of Honorable and Exce
                   <sp>
                      <speaker>Trueman.</speaker>
                      <p>Far from it, my child:—Your unusual good sense makes a common-place lecture unnecessary, Harriet; but beware of flattery and dissimulation; for the manners of the present age are so dissolute, that the young fellows of these degenerate days, think they cannot be fine gentlemen without being rakes, and—in short, rascals; for they make a merit even of debauching innocence:—indeed, that is scarcely to be wondered at, when so many of those who are called ladies of taste and fashion,
-<pb n="47" facs="tcp:021926_0047_0FB614C2676ABE78"/>
+<pb n="47" facs="unknown:021926_0047_0FB614C2676ABE78"/>
 strange as it may seem, like them the better for it;—but I hope, you and Mr. Loveyet are exceptions to such depravity.</p>
                   </sp>
                   <sp>
@@ -2920,7 +2920,7 @@ strange as it may seem, like them the better for it;—but I hope, you and Mr. L
                      <p>Mr.—Mr.—Pray what is your proper name, besides Humphry? Your sirname, I mean.</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:021926_0048_0FB614C3B1D44D48"/>
+                     <pb n="48" facs="unknown:021926_0048_0FB614C3B1D44D48"/>
                      <speaker>Humphry.</speaker>
                      <p>My proper sirname is Humphry Cubb; why our family is the most largest family within the circumroundibus of fifty miles, and the most grandest too, tho' I say it that shou'dn't say it; for my father's father's great-grand-father was a just-ass of the peace, when king George the third was a sucking baby, and therefore, as father says, a greater <hi>man</hi> then, than he was, ha, ha, ha. And his great aunt, by his mother's side, had the honor to be chief waiting woman to Mynheer Van Hard<g ref="char:EOLhyphen"/>sprakencrampdejawmetlongname, the Dutch governor's public scratchetary; but I needn't go so far back neither, for I've got, at this present time, no less than two second cousins; one of 'em is soup-provider for the county, and t'other belongs to the liglislature, and both belonging to our family too;—both Cubbs.</p>
                   </sp>
@@ -2969,7 +2969,7 @@ strange as it may seem, like them the better for it;—but I hope, you and Mr. L
                      <p>Poh, poh,—to the point, to the point.</p>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:021926_0049_0FB614C5307CA8A0"/>
+                     <pb n="49" facs="unknown:021926_0049_0FB614C5307CA8A0"/>
                      <speaker>Humphry.</speaker>
                      <p>Why, then you must know, how old Mr. Lovit is a going for to marry the West-Indian young gentleman to young Mistress Airy, I think he call'd her; and so you can go try Mistress Harriet yourself, for I'm sure she won't have him now.</p>
                   </sp>
@@ -3018,7 +3018,7 @@ strange as it may seem, like them the better for it;—but I hope, you and Mr. L
                      <p>Umph.—I suppose, if Mr. Gracely was here, you would not be so much in the dumps.</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:021926_0050_0FB614C87712DC98"/>
+                     <pb n="50" facs="unknown:021926_0050_0FB614C87712DC98"/>
                      <speaker>Cantwell.</speaker>
                      <p>Ah, Miss Herald!—If you felt the corruptions of your wicked heart, you would be in the dumps too, as you call it.</p>
                      <stage>Sighs.</stage>
@@ -3086,7 +3086,7 @@ strange as it may seem, like them the better for it;—but I hope, you and Mr. L
                   <sp>
                      <speaker>Worthnought.</speaker>
                      <p>Very true, madam:—by persons of easy notions of virtue, indeed, it would be considered a trifling <hi>faux pas,</hi> as the French call it; a perfect <hi>bagatelle;</hi> or, at most, a superficial act of incontinency; but to those who have such rigid notions of virtue as Miss Cantwell, for example, or Miss Herald, or their humble
-<pb n="51" facs="tcp:021926_0051_0FB614CFEBE12398"/>
+<pb n="51" facs="unknown:021926_0051_0FB614CFEBE12398"/>
 servant; it appears quite another thing, quite another thing, ladies:—though it is one of my foibles;—I own it is a fault to be so intalerably nice about the affairs of women; but it is a laudable imperfection, if I may be allowed the phrase;—it is erring on the safe side, for women's affairs are delicate things to meddle with, ladies.</p>
                   </sp>
                   <sp>
@@ -3143,7 +3143,7 @@ servant; it appears quite another thing, quite another thing, ladies:—though i
                      <stage>Exit.</stage>
                   </sp>
                   <sp>
-                     <pb n="52" facs="tcp:021926_0052_0FB614D1401F3C18"/>
+                     <pb n="52" facs="unknown:021926_0052_0FB614D1401F3C18"/>
                      <speaker>HERALD, <hi>manet.</hi>
                      </speaker>
                      <p>What a vain old fool! Now will she make this story of her swain, spread like a contagion: as for me, I must circulate it pretty briskly too; perhaps it may make me succeed better with Frankton; otherwise the poor girl might lie in peaceably, for me.</p>
@@ -3228,7 +3228,7 @@ servant; it appears quite another thing, quite another thing, ladies:—though i
                      <speaker>Loveyet.</speaker>
                      <p>
                         <stage>Looks at him stedfaſtly.</stage> Yes,—I'm sure I have; and I'm very much mistaken, if—yes, that reconciles all
-<pb n="53" facs="tcp:021926_0053_0FB614D2B081D4D8"/>
+<pb n="53" facs="unknown:021926_0053_0FB614D2B081D4D8"/>
 his strange conduct;—it must be so;—it is Charles himself.</p>
                   </sp>
                   <sp>
@@ -3298,7 +3298,7 @@ his strange conduct;—it must be so;—it is Charles himself.</p>
                      <p>Hah! do you dare?—Yes, he wants to provoke me still more;—to talk to me about my time of life! Why, I'm not old enough for your father, you great whelp you:—Ungracious young bastard,—to have the assurance to ridicule his father!—Out of my house, you 'scape-grace!</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:021926_0054_0FB614D6082CE540"/>
+                     <pb n="54" facs="unknown:021926_0054_0FB614D6082CE540"/>
                      <speaker>Charles.</speaker>
                      <p>Unnatural usage for so trivial an offence!—But I obey you, sir: I'll remain no longer in the house of a father, who is so destitute of a father's feelings; and since I see you value my happiness so little, sir, I shall not think myself undu<g ref="char:EOLhyphen"/>tiful, if I take some necessary steps to promote it myself.</p>
                   </sp>
@@ -3321,7 +3321,7 @@ his strange conduct;—it must be so;—it is Charles himself.</p>
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="55" facs="tcp:021926_0055_0FB614D92A1C0398"/>
+               <pb n="55" facs="unknown:021926_0055_0FB614D92A1C0398"/>
                <head>Act V.</head>
                <div n="1" type="scene">
                   <head>Scene I. A STREET.</head>
@@ -3386,7 +3386,7 @@ his strange conduct;—it must be so;—it is Charles himself.</p>
                      <speaker>LOVEYET, <hi>manet.</hi>
                      </speaker>
                      <p>I think I am even with the old gentleman now;—but I lament the necessity of this conduct; and, if a man could eat and digest matrimony, without a little matter of money, I would forgive my unreasonable father, with all my heart; and he might eat his gold himself; though, by the bye, this sum of money, in equity and good conscience, is mine.—Now he wants to cross my
-<pb n="56" facs="tcp:021926_0056_0FB614DBB2739E70"/>
+<pb n="56" facs="unknown:021926_0056_0FB614DBB2739E70"/>
 inclination, by making me the rival of my friend;—what a strange whim! But if I don't trick him out of his project and his money too, it shall not be my fault.</p>
                      <stage>Exit.</stage>
                   </sp>
@@ -3431,7 +3431,7 @@ inclination, by making me the rival of my friend;—what a strange whim! But if 
                      <stage>Aside.</stage>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:021926_0057_0FB614E256FC79C8"/>
+                     <pb n="57" facs="unknown:021926_0057_0FB614E256FC79C8"/>
                      <speaker>Harriet.</speaker>
                      <p>If my doubts are well founded, he must be an adept in the art of dissimulation. I will try him a little farther.— <stage>Aside.</stage>—What think you, Mr. Loveyet, of our New-York beauties? Have not the superior charms of so many fine women, been able to overcome such old-fashioned notions as constancy and priority of affection?</p>
                   </sp>
@@ -3460,7 +3460,7 @@ inclination, by making me the rival of my friend;—what a strange whim! But if 
                   <sp>
                      <speaker>Harriet.</speaker>
                      <p>My pride shall not let him triumph over my cha<g ref="char:EOLhyphen"/>grin. <stage>Aside.</stage>—I know Miss Airy to be as accomplished as you represent her, sir: and Mr. Frankton gave such a lovely
-<pb n="58" facs="tcp:021926_0058_0FB614E36701BBA8"/>
+<pb n="58" facs="unknown:021926_0058_0FB614E36701BBA8"/>
 description of her, you say;—I dare say he did;—oh,—yes—yes— <stage>Appears disconcerted, by striving to hide her concern.</stage>—he loves her to distraction;—Mr. Frankton has doubtless made a wise choice.</p>
                   </sp>
                   <sp>
@@ -3520,7 +3520,7 @@ description of her, you say;—I dare say he did;—oh,—yes—yes— <stage>Ap
                   <sp>
                      <speaker>Harriet.</speaker>
                      <p>He must be sincere. <stage>Aside.</stage>—Your request shall be comply'd with, sir.—The principal offence you are charged with, is your having been smitten by the lady, on whom you have bestowed such liberal commendation;—be that as it may,
-<pb n="59" facs="tcp:021926_0059_0FB614E4B3095690"/>
+<pb n="59" facs="unknown:021926_0059_0FB614E4B3095690"/>
 I heard Mr. Loveyet talk of such a match:—I believe it will require a more able advocate than yourself, to defend <hi>this</hi> cause.</p>
                   </sp>
                   <sp>
@@ -3573,7 +3573,7 @@ I heard Mr. Loveyet talk of such a match:—I believe it will require a more abl
                      <p>But you have not told me the particulars of your interview with old Mr. Loveyet.</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:021926_0060_0FB614E63A643248"/>
+                     <pb n="60" facs="unknown:021926_0060_0FB614E63A643248"/>
                      <speaker>Loveyet.</speaker>
                      <p>Were you to hear those particulars, they would only afford you pain:—'tis sufficient for me to tell you he has turned me out of his house, only because I told him, I was a friend to the new Constitution, forsooth.</p>
                   </sp>
@@ -3636,7 +3636,7 @@ I heard Mr. Loveyet talk of such a match:—I believe it will require a more abl
                      <p>Really, sir; and pray, what made you conclude so?</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:021926_0061_0FB614EBBA7C4E28"/>
+                     <pb n="61" facs="unknown:021926_0061_0FB614EBBA7C4E28"/>
                      <speaker>Frankton.</speaker>
                      <p>I thought it was within the compass of probability, madam.</p>
                   </sp>
@@ -3693,7 +3693,7 @@ I heard Mr. Loveyet talk of such a match:—I believe it will require a more abl
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="62" facs="tcp:021926_0062_0FB614F10AFE06A0"/>
+                  <pb n="62" facs="unknown:021926_0062_0FB614F10AFE06A0"/>
                   <head>SCENE III. A STREET.</head>
                   <stage>
                      <hi>Enter</hi> FRANKTON <hi>and Young</hi> LOVEYET.</stage>
@@ -3737,7 +3737,7 @@ I heard Mr. Loveyet talk of such a match:—I believe it will require a more abl
                   <sp>
                      <speaker>Humphry.</speaker>
                      <p>Mr. Airy! Ay, ay, now I've got it.—Here, Mr. What-d'ye-call'um, will you please to tell Miss Mary, somebody wants for to speak to her. <stage>Exit servant.</stage>—Now I've found out the mistake;—since I told him how the old man was a going for to marry him to Miss Mary, he thought he must obey the old fellow, for fear he shou'dn't let him have any of his money, and she's got a swinging fortune, they say; so he sent the trunk
-<pb n="63" facs="tcp:021926_0063_0FB614F5EE051120"/>
+<pb n="63" facs="unknown:021926_0063_0FB614F5EE051120"/>
 to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyphen"/>ton's for?—Why I suppose he thought I should find him here, for the man says he's here very often:—and then the number on the door; why, that settles the matter at once,—there can't be two numbers alike, in the same street, sartainly:—Yes, he's made one of his old blunders.</p>
                   </sp>
                   <stage>Servant <hi>returns.</hi>
@@ -3800,7 +3800,7 @@ to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyph
                      <stage>Aside.</stage>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:021926_0064_0FB614F77181C460"/>
+                     <pb n="64" facs="unknown:021926_0064_0FB614F77181C460"/>
                      <speaker>Loveyet.</speaker>
                      <p>You must know, madam, my son has lately arrived from the West-Indies,—</p>
                   </sp>
@@ -3840,7 +3840,7 @@ to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyph
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="65" facs="tcp:021926_0065_0FB614F8EE424900"/>
+                  <pb n="65" facs="unknown:021926_0065_0FB614F8EE424900"/>
                   <head>SCENE VI. A STREET.</head>
                   <stage>Enter</stage>
                   <sp>
@@ -3911,7 +3911,7 @@ to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyph
                      <p>This is very unaccountable;—Richard Worthnought, egh:—I wish, Mr. Worthnought, you had been at my school a while, before you scrawl'd this wretched epistle:—but the subject is still more unintelligible.</p>
                   </sp>
                   <stage>
-                     <pb n="66" facs="tcp:021926_0066_0FB61502DA8440F8"/>
+                     <pb n="66" facs="unknown:021926_0066_0FB61502DA8440F8"/>
                      <hi>Enter</hi> WORTHNOUGHT.</stage>
                   <sp>
                      <speaker>Worthnought.</speaker>
@@ -3994,7 +3994,7 @@ to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyph
                         </stage>—Your humble servant, Miss Airy.</p>
                   </sp>
                   <sp>
-                     <pb n="67" facs="tcp:021926_0067_0FB615042F503A78"/>
+                     <pb n="67" facs="unknown:021926_0067_0FB615042F503A78"/>
                      <speaker>Maria.</speaker>
                      <p>
                         <stage>Pretends to take no notice of Frankton.</stage> Mr. True<g ref="char:EOLhyphen"/>man, I hope I have the pleasure to see you well.</p>
@@ -4105,7 +4105,7 @@ to her.—But what shou'd he tell me to take it to Mr. Frank<g ref="char:EOLhyph
                   <sp>
                      <speaker>Frankton.</speaker>
                      <p>Disgusting vanity! <stage>Aside.</stage>—No, madam,—the number of your admirers is at least equal to that of your
-<pb n="68" facs="tcp:021926_0068_0FB61505AE034FE8"/>
+<pb n="68" facs="unknown:021926_0068_0FB61505AE034FE8"/>
 acquaintance;—but there is only one, who sincerely <hi>loves,</hi> as well as admires you.</p>
                   </sp>
                   <sp>
@@ -4217,7 +4217,7 @@ acquaintance;—but there is only one, who sincerely <hi>loves,</hi> as well as 
                      <stage>Aside.</stage>
                   </sp>
                   <sp>
-                     <pb n="69" facs="tcp:021926_0069_0FB61508D22606D0"/>
+                     <pb n="69" facs="unknown:021926_0069_0FB61508D22606D0"/>
                      <speaker>Trueman.</speaker>
                      <p>Upon my erudition, you have been too precipitate, Harriet; but I have no reason to think, you will repent it; you therefore have my sincerest benediction.</p>
                      <stage>Raising her.</stage>
@@ -4272,7 +4272,7 @@ acquaintance;—but there is only one, who sincerely <hi>loves,</hi> as well as 
                      <p>Ha, ha, ha.</p>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:021926_0070_0FB6150E1BC04B38"/>
+                     <pb n="70" facs="unknown:021926_0070_0FB6150E1BC04B38"/>
                      <speaker>Worthnought.</speaker>
                      <p>Never was put so much to my trumps, 'foregad.</p>
                      <stage>Exit.</stage>
@@ -4368,7 +4368,7 @@ acquaintance;—but there is only one, who sincerely <hi>loves,</hi> as well as 
                      <speaker>Trueman.</speaker>
                      <p>
                         <stage>Burlesquing what Loveyet has said in a former Scene.</stage>—"'Sdeath, sir! I tell you I am but two and forty years old: she sha'n't be more than thirty odd, sir; and she shall be ten
-<pb n="71" facs="tcp:021926_0071_0FB6150F708BF2B0"/>
+<pb n="71" facs="unknown:021926_0071_0FB6150F708BF2B0"/>
 years younger than I am too.—A man of five and forty, old, forsooth!" Ha, ha, ha.</p>
                   </sp>
                   <sp>
